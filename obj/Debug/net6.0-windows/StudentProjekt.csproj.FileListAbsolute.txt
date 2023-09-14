@@ -1,0 +1,52 @@
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\StudentProjekt.exe
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\StudentProjekt.deps.json
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\StudentProjekt.runtimeconfig.json
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\StudentProjekt.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\StudentProjekt.pdb
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.csproj.AssemblyReference.cache
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\MainWindow.g.cs
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\App.g.cs
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt_MarkupCompile.cache
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt_MarkupCompile.lref
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\MainWindow.baml
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.g.resources
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.GeneratedMSBuildEditorConfig.editorconfig
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.AssemblyInfoInputs.cache
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.AssemblyInfo.cs
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.csproj.CoreCompileInputs.cache
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.csproj.CopyComplete
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\refint\StudentProjekt.dll
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.pdb
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.genruntimeconfig.cache
+J:\C# Gy.Cs\MVVM dialog\StudentProjekt\obj\Debug\net6.0-windows\ref\StudentProjekt.dll
+D:\SULIS\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.csproj.AssemblyReference.cache
+D:\SULIS\StudentProjekt\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\SULIS\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt\App.g.cs
+D:\SULIS\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt\MainWindow.g.cs
+D:\SULIS\StudentProjekt\obj\Debug\net6.0-windows\App.g.cs
+D:\SULIS\StudentProjekt\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\SULIS\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt_MarkupCompile.cache
+D:\SULIS\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt_MarkupCompile.lref
+D:\SULIS\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.dll
+D:\SULIS\StudentProjekt\obj\Debug\net6.0-windows\refint\StudentProjekt.dll
+D:\SULIS\StudentProjekt\obj\Debug\net6.0-windows\StudentProjekt.pdb

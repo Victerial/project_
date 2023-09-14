@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w32+J8lpgxEDVxKGi9hVaygy2kvpNuQD8zbzHA0kpeRVv22BTsxwlEsqSBA8rcraXK/C6/TslFu05ivySR6isQ==",
+  "success": true,
+  "projectFilePath": "D:\\SULIS\\StudentProjekt\\StudentProjekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mnand\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
+    "C:\\Users\\mnand\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
